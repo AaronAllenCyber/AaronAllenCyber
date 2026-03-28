@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Project
 
 - **[Vulnerability Management Program Implementation](https://github.com/AaronAllenCyber/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations](https://github.com/AaronAllenCyber/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations(PowerShell and BASH)](https://github.com/AaronAllenCyber/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
